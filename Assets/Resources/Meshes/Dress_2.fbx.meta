@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: d87b0f748de4f2c44897114cda050b2d
+timeCreated: 1470325193
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: JtClavicleLf
+    100004: JtClavicleRt
+    100006: JtElbowLf
+    100008: JtElbowRt
+    100010: JtForearmTwistALf
+    100012: JtForearmTwistARt
+    100014: JtHipLf
+    100016: JtHipRt
+    100018: JtKneeLf
+    100020: JtKneeRt
+    100022: JtPelvis
+    100024: JtRoot
+    100026: JtShoulderLf
+    100028: JtShoulderRt
+    100030: JtSpineA
+    100032: JtSpineB
+    100034: JtSpineC
+    100036: JtUpperArmTwistALf
+    100038: JtUpperArmTwistARt
+    100040: JtUpperArmTwistBLf
+    100042: JtUpperArmTwistBRt
+    100044: pants_b1
+    100046: Topct
+    400000: //RootNode
+    400002: JtClavicleLf
+    400004: JtClavicleRt
+    400006: JtElbowLf
+    400008: JtElbowRt
+    400010: JtForearmTwistALf
+    400012: JtForearmTwistARt
+    400014: JtHipLf
+    400016: JtHipRt
+    400018: JtKneeLf
+    400020: JtKneeRt
+    400022: JtPelvis
+    400024: JtRoot
+    400026: JtShoulderLf
+    400028: JtShoulderRt
+    400030: JtSpineA
+    400032: JtSpineB
+    400034: JtSpineC
+    400036: JtUpperArmTwistALf
+    400038: JtUpperArmTwistARt
+    400040: JtUpperArmTwistBLf
+    400042: JtUpperArmTwistBRt
+    400044: pants_b1
+    400046: Topct
+    4300000: pants_b1
+    4300002: Topct
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pants_b1
+    13700002: Topct
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''Dress_2'' conversion failed: Required human bone ''LeftFoot''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
